@@ -1,0 +1,3 @@
+SELECT distribution_tax_breakdown_type_id,
+    distribution_tax_breakdown_type
+FROM DistributionTaxBreakdownType;
